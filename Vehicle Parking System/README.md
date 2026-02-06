@@ -74,20 +74,6 @@ A backend simulation of a real-world parking lot:
 #include <iostream>
 #include <ctime>
 #include <stdexcept>
-
-// Choose ONE set of includes based on your folder structure:
-
-// If your headers are directly under include/ (e.g., include/parkingLot.hpp)
-// #include "parkingLot.hpp"
-// #include "parkingSlot.hpp"
-// #include "ticket.hpp"
-// #include "vehicle.hpp"
-// #include "car.hpp"
-// #include "bike.hpp"
-// #include "truck.hpp"
-// #include "electricCar.hpp"
-
-// OR, if your headers are under subfolders (e.g., include/parking/parkingLot.hpp)
 #include "parking/parkingLot.hpp"
 #include "parking/parkingSlot.hpp"
 #include "parking/ticket.hpp"
@@ -195,4 +181,5 @@ int main() {
         std::cerr << "Fatal error: " << ex.what() << "\n";
         return 1;
     }
+
 }
