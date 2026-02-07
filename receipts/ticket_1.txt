@@ -1,0 +1,10 @@
+========== PARKING RECEIPT ==========
+Ticket ID      : 1
+Vehicle        : Car [MH-12-AB-0001]
+Slot           : 2 (Medium)
+Entry Time     : 2026-02-07 10:25:46
+Exit  Time     : 2026-02-07 12:55:46
+-------------------------------------
+Total Fee (INR): 50
+Generated At   : 2026-02-07 10:25:46
+=====================================

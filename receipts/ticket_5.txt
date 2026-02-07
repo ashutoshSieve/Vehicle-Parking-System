@@ -1,0 +1,10 @@
+========== PARKING RECEIPT ==========
+Ticket ID      : 5
+Vehicle        : Truck [MH-12-TT-4444]
+Slot           : 4 (Large)
+Entry Time     : 2026-02-07 10:37:46
+Exit  Time     : 2026-02-07 11:07:46
+-------------------------------------
+Total Fee (INR): 15
+Generated At   : 2026-02-07 10:25:46
+=====================================
